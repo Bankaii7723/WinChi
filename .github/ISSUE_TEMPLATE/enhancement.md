@@ -1,6 +1,6 @@
 ---
 name: 🚀Enhancement🚀
-about: Help us improve Chi with your feature requests!
+about: Help us improve WinChi with your feature requests!
 title: ''
 labels: 'enhancement'
 assignees: ''
