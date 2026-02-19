@@ -1,6 +1,6 @@
 ---
 name: Template
-about: Contribute to Chi!
+about: Contribute to WinChi!
 title: ''
 labels: '' 
 assignees: ''
