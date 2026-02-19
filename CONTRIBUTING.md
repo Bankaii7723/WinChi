@@ -1,6 +1,6 @@
 # 🙌 Thank You!
 
-Thank you for choosing to contribute to the **Chi** project! We appreciate every bug report, feature suggestion, and pull request!
+Thank you for choosing to contribute to the **WinChi** project! We appreciate every bug report, feature suggestion, and pull request!
 
 This guide will help you make your contributions clean, clear, and consistent with the rest of the codebase. Please take a moment to read through it before submitting anything.
 
@@ -8,7 +8,7 @@ This guide will help you make your contributions clean, clear, and consistent wi
 
 ## 🧠 Writing Code
 
-When writing code for Chi, please make sure to:
+When writing code for WinChi, please make sure to:
 
 - **Comment and document clearly**: Future devs will thank you. Write as if someone else will read your code.
 - **Check for bugs**: Test your code thoroughly.
@@ -21,7 +21,7 @@ When writing code for Chi, please make sure to:
 Please get familiar with the general structure of the repository:
 
 ```
-Chi/
+WinChi/
 ├─ .github/
 ├─ src/
 |  ├─ config.ini
@@ -49,8 +49,8 @@ Here’s how to get started:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/srcworks-software/Chi.git
-   cd chi/src
+   git clone https://github.com/Bankaii7723/WinChi.git
+   cd WinChi/src
    ```
 2. Install dependencies:
     ```bash
@@ -58,10 +58,10 @@ Here’s how to get started:
     ```
 3. Run it locally:
     ```bash
-    python3 app.py
+    python app.py
     ```
 > **Don't forget!** You need to import a ```.gguf``` model file when using the app! 
-> **Extra tip!** Chi is optimized for LlaMA 3 chat prompts. View ```camel.py``` for further optimizations.
+> **Extra tip!** WinChi is optimized for LlaMA 3 chat prompts. View ```camel.py``` for further optimizations.
 
 # 🔁 Submitting a pull request
 
