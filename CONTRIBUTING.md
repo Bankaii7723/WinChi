@@ -26,10 +26,11 @@ WinChi/
 ├─ src/
 |  ├─ config.ini
 │  ├─ app.py
-│  ├─ camel.py
+│  ├─ chi_backend.py
 │  ├─ assets/
 │  │  ├─ icon.svg
 |  ├─ requirements.txt
+|  |─ config.ini
 ├─ .gitattributes
 ├─ .gitignore
 ├─ CODE_OF_CONDUCT.md
